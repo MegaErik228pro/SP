@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  ClassFactory.cpp
+  ComponentHT.cpp
+  dllmain.cpp
+  ExportFunctions.cpp
+  Registry.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Erik\Desktop\SP\HTCOMDLL\Lab5\Debug\OS13_HTCOM.lib и объект C:\Users\Erik\Desktop\SP\HTCOMDLL\Lab5\Debug\OS13_HTCOM.exp
+  OS13_HTCOM.vcxproj -> C:\Users\Erik\Desktop\SP\HTCOMDLL\Lab5\Debug\OS13_HTCOM.dll

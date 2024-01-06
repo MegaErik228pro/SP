@@ -1,0 +1,5 @@
+﻿  T2.cpp
+C:\Users\Erik\Desktop\SP\DLL\OS11_HTAPI\HT.h(33,3): warning C4091: __declspec(dllimport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+C:\Users\Erik\Desktop\SP\DLL\OS11_HTAPI\HT.h(45,3): warning C4091: __declspec(dllimport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+C:\Users\Erik\Desktop\SP\DLL\OS11_02\T2.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS11_02.vcxproj -> C:\Users\Erik\Desktop\SP\DLL\x64\Debug\OS11_02.exe

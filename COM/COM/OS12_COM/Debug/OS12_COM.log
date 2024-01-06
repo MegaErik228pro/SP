@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathFactory.cpp
+  OS12_COM.cpp
+  Registry.cpp
+  Создание кода...
+OS12_COM.def(1): warning LNK4017: оператор LIBARY не поддерживается на конечной платформе; пропущен
+     Создается библиотека C:\Users\Erik\Desktop\SP\COM\COM\Debug\OS12_COM.lib и объект C:\Users\Erik\Desktop\SP\COM\COM\Debug\OS12_COM.exp
+  OS12_COM.vcxproj -> C:\Users\Erik\Desktop\SP\COM\COM\Debug\OS12_COM.dll

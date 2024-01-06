@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\3 kurs\sem1\SP\OS_Lab14\OS_0402\main.cpp(48,108): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "D:\3 kurs\sem1\SP\OS_Lab15\OS15\Debug\OS14_HTAPI.lib"

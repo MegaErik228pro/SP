@@ -1,0 +1,3 @@
+﻿  OS12_02.cpp
+C:\Users\Erik\Desktop\SP\COM\COM\OS12_02\OS12_02.cpp(17,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  OS12_02.vcxproj -> C:\Users\Erik\Desktop\SP\COM\COM\Debug\OS12_02.exe
